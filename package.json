@@ -1,0 +1,15 @@
+{
+  "name": "bletracker",
+  "version": "1.0.0",
+  "description": "This id Ble tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BLE",
+    "Android"
+  ],
+  "author": "Arpita",
+  "license": "ISC"
+}
